@@ -1,0 +1,5 @@
+path: ./dataset_split
+train: ./images/train
+val: ./images/val
+nc: 4
+names: ['Butterfly', 'Beetle', 'Ladybug', 'Bee']
